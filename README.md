@@ -77,10 +77,6 @@ Verify Users: _Admins can verify the accounts of registered users._
 ![Screenshot 2024-06-03 162752](https://github.com/DevHarsh2003/Hotel_Management_System/assets/111884027/4e8333c2-02b6-42f8-8cc8-f2b1fda3ac5c)
 
 
-Contact
-
-For any questions or support, please contact devaharsh.2003@gmail.com 
-
 
 Thank you !!
 
