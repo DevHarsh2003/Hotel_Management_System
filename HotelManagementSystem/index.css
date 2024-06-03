@@ -1,0 +1,15 @@
+.navbar-scrolled{ 
+    background-color: aliceblue; 
+    color: darkslateblue; 
+} 
+ 
+.navbar{ 
+    transition: all 0.5s; 
+} 
+ 
+.centered {     position: absolute;     top: 80%;     left: 50%; 
+    transform: translate(-50%, -50%); 
+  } 
+.container hr{ 
+    border: 1px ridge black; 
+} 
