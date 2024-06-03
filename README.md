@@ -4,10 +4,15 @@ This project is a web application built using PHP and MySQL that provides functi
 
 **Features**
 Client Authentication: _User registration and login._
+
 Room Booking: _Clients can book available rooms._
+
 Booking Cancellation: _Clients can cancel their bookings._
+
 Staff Approval: _Admins can approve new staff members._
+
 Staff Dismissal:_ Admins can dismiss existing staff members._
+
 User Verification: _Admins can verify user accounts._
 
 **Technologies Used**
