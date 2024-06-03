@@ -1,4 +1,4 @@
-![Screenshot 2024-06-03 162034](https://github.com/DevHarsh2003/Hotel_Management_System/assets/111884027/a9f4daac-2755-41d3-8532-085540854ce1)# Hotel_Management_System
+# Hotel_Management_System
 **Overview**
 This project is a web application built using PHP and MySQL that provides functionalities for client authentication, room booking, and cancellation. Additionally, it includes an administrative panel for managing staff, approving or dismissing them, and verifying user accounts.
 
